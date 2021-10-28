@@ -22,8 +22,8 @@
 
 <br/>
 <p>Entusiasta desenvolvedor front-end com quase 2 anos de experiência prática em design responsivo com HTML semântico, CSS e Javascript ES8; 
-Também me aventuro em design e prototipagem e pequenas ilustrações no Figma para os meus projetos e trabalhos, mas não espere muito de mim nesta última. 😹<br/>
-Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPA). </p>
+Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma para os meus projetos e trabalhos, mas não espere muito de mim nesta última. 😹<br/>
+Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPA) ⚛</p>
 
 
 <br/>
