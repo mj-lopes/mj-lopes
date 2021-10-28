@@ -35,7 +35,7 @@ Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPA
 <h3 align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-Dogs&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/React-Dogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=animais-fantasticos&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/animais-fantasticos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=fantastic-beasts&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/fantastic-beasts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=NiceWeather&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/NiceWeather)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=surfBot-UI&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/surfBot-UI)
 
