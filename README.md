@@ -17,7 +17,6 @@
 <img src='https://img.shields.io/badge/Steam-%23171A21?style=for-the-badge&logo=steam' />
 </a>
 
-</p>
 
 
 <br/>
@@ -25,18 +24,42 @@
 Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma e Adobe XD para os meus projetos e trabalhos, mas não espere muito de mim nesta última. 😹<br/>
 Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPAs) ⚛</p>
 
-
 <br/>
+
+
 
 <h2 align='center'> Meus Projetos Favoritos 😻 </h2>
 
 <br/>
 
-<h3 align='center'>
+<div align='center' >
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-Dogs&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/React-Dogs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=fantastic-beasts&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/fantastic-beasts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=NiceWeather&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/NiceWeather)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=surfBot-UI&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa)](https://github.com/mj-lopes/surfBot-UI)
+  <img src='https://github.com/mj-lopes/mj-lopes/blob/main/dog-thumb.png' width='400' height='200'/>  
+  <img src='https://github.com/mj-lopes/mj-lopes/blob/main/fb-thumb.png' width='400' height='200'/>    
+  
+<a href='https://github.com/mj-lopes/React-Dogs'>  
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-Dogs&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
+</a>
+ 
+<a href='https://github.com/mj-lopes/fantastic-beasts'>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=fantastic-beasts&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
+</a>    
+  
+<br/>
+<br/>
 
-</h1>
+  
+  <img src='https://user-images.githubusercontent.com/56007721/139386554-bb96b793-a509-4d8e-bb9b-d0dbcd85bbe5.png' width='400' height='200' /> 
+  <img src='https://github.com/mj-lopes/mj-lopes/blob/main/suft-thumb.png' width='400' height='200' />  
+  
+<a href='https://github.com/mj-lopes/NiceWeather'>  
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=NiceWeather&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />    
+</a>
+ 
+<a href='https://github.com/mj-lopes/surfBot-UI'>  
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=surfBot-UI&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' /> 
+</a>
+  
+
+
+</div>
