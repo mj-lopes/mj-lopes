@@ -100,7 +100,7 @@ Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPA
 
 --- 
 
-<div>
+<div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=mj-lopes&show_icons=true&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa&icon_color=b24d0a' />
   <a href='https://github.com/mj-lopes'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mj-lopes&layout=compact&hide=PHP&show_icons=true&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa&icon_color=b24d0a' />
