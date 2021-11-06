@@ -55,7 +55,7 @@ Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPA
   <img src='https://user-images.githubusercontent.com/56007721/139386554-bb96b793-a509-4d8e-bb9b-d0dbcd85bbe5.png' width='400' height='200' /> 
   <img src='https://github.com/mj-lopes/mj-lopes/blob/main/suft-thumb.png' width='400' height='200' />  
   
-  <a href='https://github.com/mj-lopes/NiceWeather'>  
+  <a href='https://github.com/mj-lopes/Weather-app'>  
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=NiceWeather&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />    
   </a>
 
