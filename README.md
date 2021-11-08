@@ -70,14 +70,20 @@ Atualmente focado em ReactJS ⚛</p>
 
 <h2 align='center'> Um Pouco Sobre Mim 😺</h1>
 
-<p> A programação não foi um amor a primeira vista. </p>
-<br/>
+<!-- 
+- A programação não foi um amor a primeira vista. Era umas das matérias que eu mais desconhecia a principio, mas esse desconhecimento que me fez interessar mais e mais por ela.
+- Tive uma infância caseira e rural. Só tive contato com computadores aos 10 anos, o que pode ser considerado o responsável pelo o meu facinio e curiosidade pela a área.
+- Ciência da computação foi a minha segunda escolha de curso superior. Quase cursei Direito, porém a pedido do meu pai fui estudar o que eu mais amava.
+- Pode-se perceber que tenho um bom cado de projetos que envolvem animais, e que o meu perfil é de tema de gatos, isto é porque adoro animais desde a infância.
+- Aliás, tenho atualmente 4 gatos haha. -->
  
- <p> De infância caseira e rural, eu passei boa parte dela sem nem saber oque era tecnologia, brincando com paus e pedras, literalmente. Aos 10 anos tive o meu primeiro computador, porém o pouco que podia mexer era em fins de semana, entretanto o suficiente para ficar maravilhado (e curioso).</p>
+<p>A programação não foi um amor a primeira vista.</p>
+ 
+<p> De infância caseira e rural, eu passei boa parte dela sem nem saber oque era tecnologia, brincando com paus e pedras, literalmente. Aos 10 anos tive o meu primeiro computador, porém o pouco que podia mexer era em fins de semana, entretanto o suficiente para ficar maravilhado (e curioso).</p>
  
  <p> Aos 18 anos ingressei na faculdade de ciência da computação. Confesso que fiquei perdido no começo, era muita informação nova, muitas das coisas eu nunca nem havia ouvido falar, porém uma me chamou a atenção e foi a bendita programação, que se mostrou um belo desafio de inicio. Um amigo (abraços Keven) certa vez me mostrou em um dos laboratorios da faculdade um algoritmo que ele havia escrito, "não entende nada do que está aqui, não é?" ele me falou, e infelizmente era verdade... Foi então que decidir mudar isto.</p> 
  
- <p> Passei a estudar quase que diariamente sobre programação, da lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim eu consegui me tornar uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio em alguns casos e para ser honesto eu gostava de auxilia-los. </p>
+ <p> Passei a estudar quase que diariamente sobre programação, da lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim do curso me tornei uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio por meus colegas em alguns casos.</p>
  
  <p> Quando me formei em 2020 havia mais que decidido em seguir carreira na área de desenvolvimento. Como sou apaixonado pela web, me voltei a sua santa trindade: HTML, CSS e o Javascript. E bem, é onde estou hoje 😸</p>
   
