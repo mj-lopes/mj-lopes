@@ -23,9 +23,9 @@
 </p>
 
 <br/>
-<p>Entusiasta desenvolvedor front-end com quase 2 anos de experiência prática em design responsivo, HTML semântico, CSS/SCSS e Javascript ES6; 
+<p>Entusiasta desenvolvedor front-end com quase 2 anos de experiência prática em design responsivo, HTML semântico, CSS/SCSS e Javascript ES6+; 
 Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma e Adobe XD, mas não espere muito de mim nesta última. 😹<br/>
-Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPAs) ⚛</p>
+Atualmente focado em ReactJS ⚛</p>
 
 <br/>
 
@@ -73,13 +73,11 @@ Atualmente focado em React e no desenvolvimento de Single-Page Applications (SPA
 <p> A programação não foi um amor a primeira vista. </p>
 <br/>
  
- <p> De infância caseira e rural, eu passei boa parte dela sem nem saber oque era tecnologia, brincando com paus e pedras, literalmente. Aos 8 anos tive o meu primeiro computador, porém o pouco que podia mexer era em fins de semana, entretanto o suficiente para ficar maravilhado (e curioso). Como que aquela seta branca sabe para onde ir só mexendo essa coisa que estou apoiando minha mão direita?</p>
+ <p> De infância caseira e rural, eu passei boa parte dela sem nem saber oque era tecnologia, brincando com paus e pedras, literalmente. Aos 10 anos tive o meu primeiro computador, porém o pouco que podia mexer era em fins de semana, entretanto o suficiente para ficar maravilhado (e curioso).</p>
  
- <p> Aos 12 anos me mudei para a cidade, o acesso a uma melhor conexão me deu a oportunidade de aprender mais, focando majoritariamente na época em saber sobre o hardware. Quando o computador quebrava e eu conseguia arruma-lo era uma alegria que só. Por volta dos 16 anos eu já me comprometia em trabalhar em pequenos bicos de manutenção. </p> 
+ <p> Aos 18 anos ingressei na faculdade de ciência da computação. Confesso que fiquei perdido no começo, era muita informação nova, muitas das coisas eu nunca nem havia ouvido falar, porém uma me chamou a atenção e foi a bendita programação, que se mostrou um belo desafio de inicio. Um amigo (abraços Keven) certa vez me mostrou em um dos laboratorios da faculdade um algoritmo que ele havia escrito, "não entende nada do que está aqui, não é?" ele me falou, e infelizmente era verdade... Foi então que decidir mudar isto.</p> 
  
- <p> Aos 18 anos ingressei na faculdade de ciência da computação. Confesso que fiquei perdido no começo, era muita informação nova, muitas das coisas eu nunca nem havia ouvido falar, porém uma me chamou a atenção e foi a bendita programação. Então essas palavras, simbolos e linhas estranhas... São elas que realmente fazem tudo acontecer por trás do que vejo em tela? Porém a programação foi um belo desafio de inicio, sendo que não era um dos meus pontos fortes de inicio. Um amigo (abraços Keven) certa vez me mostrou em um dos laboratorios da faculdade um algoritmo que ele havia escrito, "não entende nada do que está aqui, não é?" ele me falou, e infelizmente era verdade... Foi então que decidir mudar isto.</p> 
- 
- <p> Passei a estudar quase que diariamente sobre programação, da lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim eu consegui me tornar uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio em alguns casos, o "caça-bugs", e para ser honesto eu gostava de auxilia-los. </p>
+ <p> Passei a estudar quase que diariamente sobre programação, da lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim eu consegui me tornar uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio em alguns casos e para ser honesto eu gostava de auxilia-los. </p>
  
  <p> Quando me formei em 2020 havia mais que decidido em seguir carreira na área de desenvolvimento. Como sou apaixonado pela web, me voltei a sua santa trindade: HTML, CSS e o Javascript. E bem, é onde estou hoje 😸</p>
   
