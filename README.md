@@ -27,13 +27,11 @@
 Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma e Adobe XD, mas não espere muito de mim nesta última. 😹<br/>
 Atualmente focado em ReactJS ⚛</p>
 
-<br/>
-
-
+</br>
 
 <h2 align='center'> Meus Projetos Favoritos 😻 </h2>
 
-<br/>
+</br>
 
 <div align='center' >
 
@@ -48,8 +46,8 @@ Atualmente focado em ReactJS ⚛</p>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=fantastic-beasts&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
   </a>    
 
-<br/>
-<br/>
+</br>
+</br>
   
   [<img src='https://user-images.githubusercontent.com/56007721/141238303-8d5c1b71-f278-4d8d-ab1d-ee01900692b2.png'  width='400' height='200' />](https://github.com/mj-lopes/Weather-app) 
   [<img src='https://github.com/mj-lopes/mj-lopes/blob/main/suft-thumb.png' width='400' height='200' />](https://github.com/mj-lopes/surfBot-UI)  
@@ -62,20 +60,20 @@ Atualmente focado em ReactJS ⚛</p>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=surfBot-UI&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' /> 
   </a>
   
-<br/>
-<br/>
-  
+</br>
+</br>  
   
   <a href='https://github.com/mj-lopes/Restaurant-finder'>     
     <img src='https://user-images.githubusercontent.com/56007721/141236116-1b19b1e9-3a3e-4ce3-8d27-d7c99ff0a1c3.png' width='400' height='200' />     
-    <br/>    
+    </br>
+    </br>  
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=Restaurant-finder&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' /> 
   </a>
 
 </div>
 
-<br/>
-<br/>
+</br>
+</br>
 
 <h2 align='center'> Um Pouco Sobre Mim 😺</h1>
 
@@ -96,8 +94,8 @@ Atualmente focado em ReactJS ⚛</p>
  
  <p> Quando me formei em 2020 havia mais que decidido em seguir carreira na área de desenvolvimento. Como sou apaixonado pela web, me voltei a sua santa trindade: HTML, CSS e o Javascript. E bem, é onde estou hoje 😸</p>
   
-<br/>
-<br/>
+</br>
+</br>
 
 <h3 align='center'>Linguagens e Ferramentas</h3>
  <p align="center">
