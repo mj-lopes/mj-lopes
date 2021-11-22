@@ -53,7 +53,7 @@ Atualmente focado em ReactJS ⚛</p>
   [<img src='https://github.com/mj-lopes/mj-lopes/blob/main/suft-thumb.png' width='400' height='200' />](https://github.com/mj-lopes/surfBot-UI)  
   
   <a href='https://github.com/mj-lopes/Weather-app'>  
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=NiceWeather&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />    
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=Weather-app&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />    
   </a>
 
   <a href='https://github.com/mj-lopes/surfBot-UI'>  
