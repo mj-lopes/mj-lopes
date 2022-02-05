@@ -23,9 +23,9 @@
 </p>
 
 <br/>
-<p>Entusiasta desenvolvedor front-end com quase 2 anos de experiência prática em design responsivo, HTML semântico, CSS/SCSS e Javascript ES6+; 
-Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma e Adobe XD, mas não espere muito de mim nesta última. 😹<br/>
-Atualmente focado em ReactJS ⚛</p>
+<p>Entusiasta desenvolvedor front-end por 2 anos trabalhando com design responsivo, HTML semântico, CSS/SCSS, Javascript ES6+ e React em jobs autônomos e pessoais; 
+Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma e Adobe XD, mas não espere muito de mim nesta última. 😹</br>
+Atualmente aprofundando o conhecimento em NodeJS, Express e Typescript.</p>
 
 </br>
 
