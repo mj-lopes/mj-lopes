@@ -36,13 +36,13 @@ Atualmente focado em ReactJS ⚛</p>
 <div align='center' >
 
   [<img src='https://github.com/mj-lopes/mj-lopes/blob/main/dog-thumb.png' width='400' height='200'/>](https://github.com/mj-lopes/React-Dogs)
-  [<img src='https://user-images.githubusercontent.com/56007721/152654969-a124f13a-d9b6-4335-a22e-494091694dd0.png' width='400' height='200'/>](https://github.com/mj-lopes/fantastic-beasts)
+  [<img src='https://user-images.githubusercontent.com/56007721/152654969-a124f13a-d9b6-4335-a22e-494091694dd0.png' width='400' height='200'/>](https://github.com/mj-lopes/React-petshop-front-end)
   
   <a href='https://github.com/mj-lopes/React-Dogs'>  
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-Dogs&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
   </a>
 
-  <a href='https://github.com/mj-lopes/fantastic-beasts'>
+  <a href='https://github.com/mj-lopes/React-petshop-front-end'>
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-petshop-front-end&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
   </a>    
 
@@ -76,21 +76,13 @@ Atualmente focado em ReactJS ⚛</p>
 </br>
 
 <h2 align='center'> Um Pouco Sobre Mim 😺</h1>
-
-<!-- 
-- A programação não foi um amor a primeira vista. Era umas das matérias que eu mais desconhecia a principio, mas esse desconhecimento que me fez interessar mais e mais por ela.
-- Tive uma infância caseira e rural. Só tive contato com computadores aos 10 anos, o que pode ser considerado o responsável pelo o meu facinio e curiosidade pela a área.
-- Ciência da computação foi a minha segunda escolha de curso superior. Quase cursei Direito, porém a pedido do meu pai fui estudar o que eu mais amava.
-- Pode-se perceber que tenho um bom cado de projetos que envolvem animais, e que o meu perfil é de tema de gatos, isto é porque adoro animais desde a infância.
-- Aliás, tenho atualmente 4 gatos haha. -->
  
 <p>A programação não foi um amor a primeira vista.</p>
  
 <p> De infância caseira e rural, eu passei boa parte dela sem nem saber oque era tecnologia, brincando com paus e pedras, literalmente. Aos 10 anos tive o meu primeiro computador, porém o pouco que podia mexer era em fins de semana, entretanto o suficiente para ficar maravilhado (e curioso).</p>
  
- <p> Aos 18 anos ingressei na faculdade de ciência da computação. Confesso que fiquei perdido no começo, era muita informação nova, muitas das coisas eu nunca nem havia ouvido falar, porém uma me chamou a atenção e foi a bendita programação, que se mostrou um belo desafio de inicio. Um amigo (abraços Keven) certa vez me mostrou em um dos laboratorios da faculdade um algoritmo que ele havia escrito, "não entende nada do que está aqui, não é?" ele me falou, e infelizmente era verdade... Foi então que decidir mudar isto.</p> 
- 
- <p> Passei a estudar quase que diariamente sobre programação, da lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim do curso me tornei uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio por meus colegas em alguns casos.</p>
+<p> Aos 18 anos ingressei na faculdade de ciência da computação, a qual fiquei perdido no começo com tanta informação nova, e dentre elas uma me chamou a atenção e foi a bendita programação, que se mostrou um belo desafio de inicio - sério, eu quase reprovei na primeira materia de lógica de programação hahaha -.  
+A partir daí passei a estudar quase que diariamente sobre programação, de lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim do curso me tornei uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio por meus colegas em alguns casos.</p>
  
  <p> Quando me formei em 2020 havia mais que decidido em seguir carreira na área de desenvolvimento. Como sou apaixonado pela web, me voltei a sua santa trindade: HTML, CSS e o Javascript. E bem, é onde estou hoje 😸</p>
   
@@ -98,16 +90,21 @@ Atualmente focado em ReactJS ⚛</p>
 </br>
 
 <h3 align='center'>Linguagens e Ferramentas</h3>
+
  <p align="center">
-  <img alt='HTML5' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  
-  <img alt='CSS3' src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img alt='Javascript ES6' src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img alt='React' src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
-  <img alt='Visual Studio Code' src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-  <img alt='Github' src="https://img.icons8.com/fluency/48/000000/github.png"/>
-  <img alt='Adobe XD' src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>  
-  <img alt='Figma' src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  <img alt='User Interface' src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-ui-online-learning-kiranshastry-lineal-color-kiranshastry.png"/> 
+  <img alt='HTML5' src="https://user-images.githubusercontent.com/56007721/152657816-fb42234d-577b-413c-af02-8dfa669d7dc8.png" title='HTML5'/>  
+  <img alt='CSS3' src="https://user-images.githubusercontent.com/56007721/152657871-635256a9-2bb8-432c-b0dc-ac60933b8beb.png" title='CSS3'/>
+  <img alt='Javascript ES6' src="https://user-images.githubusercontent.com/56007721/152657906-f8d67ade-892d-4b2b-a646-179cc1a59ff3.png" title='Javascript'/>
+  <img alt='Typescript' src="https://user-images.githubusercontent.com/56007721/152658045-5a7de809-a246-4ac5-88f1-9560f045b669.png" title='Typescript'/>    
+  <img alt='React' src="https://user-images.githubusercontent.com/56007721/152657916-abde8dfb-3b6f-43a8-b710-b436720c549c.png" title='ReactJS'/>
+  <img alt='Visual Studio Code' src="https://user-images.githubusercontent.com/56007721/152657956-2f8a8342-4ac7-40f3-8c6a-832337940538.png" title='Visual Studio Code'/>
+  <img alt='Github' src="https://user-images.githubusercontent.com/56007721/152657989-c3a15803-8768-4db7-bc3c-14a4032e74aa.png" title='Github'/>
+  <img alt='Adobe XD' src="https://user-images.githubusercontent.com/56007721/152657992-8d1562ba-e39d-4a3e-8002-a48a7fd68a9a.png" title='Adobe XD'/>  
+  <img alt='Figma' src="https://user-images.githubusercontent.com/56007721/152658223-b84d1bb7-577b-4b8e-be68-e2e090626b3a.png" title='Figma'/>  
+  <img alt='Express' src="https://user-images.githubusercontent.com/56007721/152658113-75d5b45f-8c1d-4650-925e-82e14ee1db68.png" title='Express'/>  
+  <img alt='Node.js' src="https://user-images.githubusercontent.com/56007721/152658135-40bf0f93-a685-4cdb-bdfe-a9e2b4c318f2.png" title='Node.js'/>  
+  <img alt='Mysql' src="https://user-images.githubusercontent.com/56007721/152658161-946c6a83-0eb0-4f6e-81f5-277f8e4da036.png" title='Mysql'/>  
+  <img alt='Postgresql' src="https://user-images.githubusercontent.com/56007721/152658166-fa0200aa-a932-4112-84ee-741c9ea947b7.png" title='Postgresql'/>  
 </p>
 
 --- 
