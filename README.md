@@ -36,14 +36,14 @@ Atualmente focado em ReactJS ⚛</p>
 <div align='center' >
 
   [<img src='https://github.com/mj-lopes/mj-lopes/blob/main/dog-thumb.png' width='400' height='200'/>](https://github.com/mj-lopes/React-Dogs)
-  [<img src='https://github.com/mj-lopes/mj-lopes/blob/main/fb-thumb.png' width='400' height='200'/>](https://github.com/mj-lopes/fantastic-beasts)
+  [<img src='https://user-images.githubusercontent.com/56007721/152654969-a124f13a-d9b6-4335-a22e-494091694dd0.png' width='400' height='200'/>](https://github.com/mj-lopes/fantastic-beasts)
   
   <a href='https://github.com/mj-lopes/React-Dogs'>  
     <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-Dogs&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
   </a>
 
   <a href='https://github.com/mj-lopes/fantastic-beasts'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=fantastic-beasts&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
+    <img src='https://github-readme-stats.vercel.app/api/pin/?username=mj-lopes&repo=React-petshop-front-end&title_color=d37a37&bg_color=090b0f&hide_border=true&text_color=aaaaaa' />   
   </a>    
 
 </br>
