@@ -23,9 +23,9 @@
 </p>
 
 <br/>
-<p>Entusiasta desenvolvedor front-end por 2 anos trabalhando com design responsivo, HTML semântico, CSS/SCSS, Javascript ES6+ e React em jobs autônomos e pessoais; 
+<p>Entusiasta desenvolvedor front-end por 3 anos trabalhando com design responsivo, HTML semântico, CSS/SCSS, Javascript ES6+ e React/Next; 
 Também me aventuro em design, prototipagem e pequenas ilustrações vetoriais no Figma e Adobe XD, mas não espere muito de mim nesta última. 😹</br>
-Atualmente aprofundando o conhecimento em NodeJS, Express e Typescript.</p>
+Atualmente aprofundando meus conhecimentos em testes end-to-end com Cypress.</p>
 
 </br>
 
@@ -84,7 +84,7 @@ Atualmente aprofundando o conhecimento em NodeJS, Express e Typescript.</p>
 <p> Aos 18 anos ingressei na faculdade de ciência da computação, a qual fiquei perdido no começo com tanta informação nova, e dentre elas uma me chamou a atenção e foi a bendita programação, que se mostrou um belo desafio de inicio - sério, eu quase reprovei na primeira materia de lógica de programação hahaha -.  
 A partir daí passei a estudar quase que diariamente sobre programação, de lógica básica, pascal e scratch, a até paradigmas de programação e linguagens como C, PHP e Python. No fim do curso me tornei uma das referências quanto ao assunto em minha turma para meus colegas e professores. Era até visto como um ponto de auxilio por meus colegas em alguns casos.</p>
  
- <p> Quando me formei em 2020 havia mais que decidido em seguir carreira na área de desenvolvimento. Como sou apaixonado pela web, me voltei a sua santa trindade: HTML, CSS e o Javascript. E bem, é onde estou hoje 😸</p>
+ <p> Quando me formei em 2019 havia mais que decidido em seguir carreira na área de desenvolvimento. Como sou apaixonado pela web, me voltei a sua santa trindade: HTML, CSS e o Javascript. E bem, é onde estou hoje 😸</p>
   
 </br>
 </br>
