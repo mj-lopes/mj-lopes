@@ -90,21 +90,26 @@ A partir daí passei a estudar quase que diariamente sobre programação, de ló
 </br>
 
 <h3 align='center'>Linguagens e Ferramentas</h3>
-
- <p align="center">
+<p align="center">
   <img alt='HTML5' src="https://user-images.githubusercontent.com/56007721/152657816-fb42234d-577b-413c-af02-8dfa669d7dc8.png" title='HTML5'/>  
   <img alt='CSS3' src="https://user-images.githubusercontent.com/56007721/152657871-635256a9-2bb8-432c-b0dc-ac60933b8beb.png" title='CSS3'/>
   <img alt='Javascript ES6' src="https://user-images.githubusercontent.com/56007721/152657906-f8d67ade-892d-4b2b-a646-179cc1a59ff3.png" title='Javascript'/>
   <img alt='Typescript' src="https://user-images.githubusercontent.com/56007721/152658045-5a7de809-a246-4ac5-88f1-9560f045b669.png" title='Typescript'/>    
   <img alt='React' src="https://user-images.githubusercontent.com/56007721/152657916-abde8dfb-3b6f-43a8-b710-b436720c549c.png" title='ReactJS'/>
-  <img alt='Visual Studio Code' src="https://user-images.githubusercontent.com/56007721/152657956-2f8a8342-4ac7-40f3-8c6a-832337940538.png" title='Visual Studio Code'/>
+  <img alt='Next.js' src="https://user-images.githubusercontent.com/56007721/188791062-0fd9289f-7cdb-461d-b49b-f7c5ec42b9a8.png" title='Next.js'/>
+  <img alt='Visual Studio Code' src="https://user-images.githubusercontent.com/56007721/152657956-2f8a8342-4ac7-40f3-8c6a-832337940538.png" title='Visual Studio                   Code'/>
   <img alt='Github' src="https://user-images.githubusercontent.com/56007721/152657989-c3a15803-8768-4db7-bc3c-14a4032e74aa.png" title='Github'/>
+</p>
+  
+<p align="center">  
   <img alt='Adobe XD' src="https://user-images.githubusercontent.com/56007721/152657992-8d1562ba-e39d-4a3e-8002-a48a7fd68a9a.png" title='Adobe XD'/>  
   <img alt='Figma' src="https://user-images.githubusercontent.com/56007721/152658223-b84d1bb7-577b-4b8e-be68-e2e090626b3a.png" title='Figma'/>  
   <img alt='Express' src="https://user-images.githubusercontent.com/56007721/152658113-75d5b45f-8c1d-4650-925e-82e14ee1db68.png" title='Express'/>  
   <img alt='Node.js' src="https://user-images.githubusercontent.com/56007721/152658135-40bf0f93-a685-4cdb-bdfe-a9e2b4c318f2.png" title='Node.js'/>  
   <img alt='Mysql' src="https://user-images.githubusercontent.com/56007721/152658161-946c6a83-0eb0-4f6e-81f5-277f8e4da036.png" title='Mysql'/>  
   <img alt='Postgresql' src="https://user-images.githubusercontent.com/56007721/152658166-fa0200aa-a932-4112-84ee-741c9ea947b7.png" title='Postgresql'/>  
+  <img alt='Jest' src="https://user-images.githubusercontent.com/56007721/188790840-94dd8aaf-d6a7-4e1b-9b2c-e99c80d3f00b.png" title='Jest'/>  
+  <img alt='Cypress' src="https://user-images.githubusercontent.com/56007721/188790839-7a68cff7-87a6-4832-a986-3522fffa7a32.png" title='Cypress'/>  
 </p>
 
 --- 
